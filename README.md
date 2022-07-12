@@ -1,5 +1,5 @@
 # latihanTBD
-LatihanTrunkBaseDev with Git
-Trunk Base Development
-GIT
-SourceTree
+# LatihanTrunkBaseDev with Git
+# Trunk Base Development
+# GIT
+# SourceTree
